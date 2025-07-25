@@ -31,7 +31,7 @@ src/
 
 1. **Clone o repositório**
 
-```bash
+``bash
 git clone git@github.com:Ingryd-Aylana/login-page.git
 cd particles-login-react
 
