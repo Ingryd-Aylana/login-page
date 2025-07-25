@@ -2,8 +2,6 @@
 
 Projeto front-end construído em **React.js** com o efeito de partículas animadas de fundo utilizando a biblioteca [`tsParticles`](https://particles.js.org/). Ideal para ser aplicado como plano de fundo de páginas de login, onboarding ou landing pages institucionais.
 
-![Preview](./public/login-preview.png)
-
 ## 🚀 Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
@@ -68,4 +66,4 @@ const particlesOptions = {
 
 ## 🧑‍💻 Desenvolvido por:
 
-- Ingryd Aylana | Desenvolvedora Front-End | Linkedin: www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158
+Ingrid Aylana | Desenvolvedora Front-End | Linkedin: www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158
