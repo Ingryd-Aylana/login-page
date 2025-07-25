@@ -47,20 +47,6 @@ npm run dev
 
  - O comportamento das partículas pode ser customizado diretamente no componente ParticlesBackground.jsx, alterando o objeto options.
 
-
-## Exemplo de customização:
-
-const particlesOptions = {
-  background: { color: { value: "#0d47a1" } },
-  particles: {
-    color: { value: "#ffffff" },
-    links: { enable: true, color: "#ffffff", distance: 150 },
-    move: { enable: true, speed: 2 },
-    number: { value: 50 },
-    shape: { type: "circle" },
-  }
-}
-
  ## 🧠 Créditos
 - Projeto inspirado na documentação e exemplos da biblioteca tsParticles, mantida por Matteo Bruni.
 
