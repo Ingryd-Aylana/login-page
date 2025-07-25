@@ -45,11 +45,12 @@ npm install
 
 npm run dev
 
-✨ Personalização
+## ⚙️ Como Rodar Localmente
 
-O comportamento das partículas pode ser customizado diretamente no componente ParticlesBackground.jsx, alterando o objeto options.
+ - O comportamento das partículas pode ser customizado diretamente no componente ParticlesBackground.jsx, alterando o objeto options.
 
-Exemplo de customização:
+
+## Exemplo de customização:
 
 const particlesOptions = {
   background: { color: { value: "#0d47a1" } },
@@ -62,9 +63,9 @@ const particlesOptions = {
   }
 }
 
-🧠 Créditos
-Projeto inspirado na documentação e exemplos da biblioteca tsParticles, mantida por Matteo Bruni.
+ ## 🧠 Créditos
+- Projeto inspirado na documentação e exemplos da biblioteca tsParticles, mantida por Matteo Bruni.
 
-🧑‍💻 Desenvolvido por:
+## 🧑‍💻 Desenvolvido por:
 
-Ingrid Aylana | Desenvolvedora Front-End | Linkedin: www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158
+- Ingryd Aylana | Desenvolvedora Front-End | Linkedin: www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158
