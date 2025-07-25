@@ -31,7 +31,6 @@ src/
 
 1. **Clone o repositório**
 
-``bash
 git clone git@github.com:Ingryd-Aylana/login-page.git
 cd particles-login-react
 
@@ -52,4 +51,4 @@ npm run dev
 
 ## 🧑‍💻 Desenvolvido por:
 
-Ingrid Aylana | Desenvolvedora Front-End | Linkedin: www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158
+Ingryd Aylana | Desenvolvedora Front-End | Linkedin: www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158
